@@ -1,0 +1,49 @@
+[
+    {
+        "id": 1,
+        "title": "What is GraphQL",
+        "description": "Questions that go over some GraphQL details",
+        "shuffleQuestions": true,
+        "shuffleAnswers": true,
+        "questions": [
+            {
+                "text": "What is graphql?",
+                "isMarkDown": true
+            },
+            {
+                "text": "Why use an input type?"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "What is Docker",
+        "description": "Questions that go over some Docker details",
+        "shuffleQuestions": false,
+        "shuffleAnswers": true,
+        "questions": [
+            {
+                "text": "Is docker like a VM?"
+            },
+            {
+                "text": "How to copy files into the container?",
+                "isMarkDown": false
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "What is Tensorflow",
+        "description": "Questions that go over some Tensofow details",
+        "shuffleQuestions": true,
+        "shuffleAnswers": false,
+        "questions": [
+            {
+                "text": "What is supervised learning?"
+            },
+            {
+                "text": "What is unsupervised learning?"
+            }
+        ]
+    }
+]
