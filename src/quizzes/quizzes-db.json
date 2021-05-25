@@ -34,7 +34,7 @@
     {
         "id": 3,
         "title": "What is Tensorflow",
-        "description": "Questions that go over some Tensofow details",
+        "description": "Questions that go over some Tensoflow details",
         "shuffleQuestions": true,
         "shuffleAnswers": false,
         "questions": [
